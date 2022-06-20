@@ -26,6 +26,10 @@ Players each take turns. Each turn consists four phases:
 ![image](https://user-images.githubusercontent.com/79797338/174660933-bca4f933-c38b-4f16-a40f-087dfb116995.png)
 ![image](https://user-images.githubusercontent.com/79797338/174661087-160433c6-5d33-490f-857d-29e3e6e5733e.png)
 
+# Design Pattern Used
+
+![stratgy_pattem_Ingame (2)](https://user-images.githubusercontent.com/79797338/174664127-27897a7a-a82d-4c95-9984-87bc5e8c43ee.jpg)
+
 
 ## Game Preview 
 
